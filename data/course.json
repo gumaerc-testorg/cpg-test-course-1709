@@ -1,0 +1,31 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "cpg-test-course-1709"
+  },
+  "course_image": {
+    "content": "",
+    "website": "cpg-test-course-1709"
+  },
+  "course_title": "cpg-test-course-1709",
+  "course_description": "https://github.com/mitodl/ocw-studio/pull/1735",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1709",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "cpg-test-course-1709"
+  },
+  "learning_resource_types": [],
+  "site_uid": "73b2d82a-45e0-4597-9148-2db1b0912f8d",
+  "site_short_id": "cpg-test-course-1709"
+}
