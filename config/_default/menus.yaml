@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 0d4b7347-ff05-48a7-8947-6e219d47d5e2
+  name: Test Page
+  url: /pages/test-page
+  weight: 10
